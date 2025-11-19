@@ -22,6 +22,6 @@ All infrastructure operations (create, inspect, delete) are managed via Terrafor
 | terraform destroy | Delete resources |
 
 ## 🏁 Final Output
-- Running Nginx container accessible at **http://localhost:8080**
+- Running Nginx container accessible at **http://localhost:83**
 - Terraform-managed Docker infrastructure.
 
